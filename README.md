@@ -24,7 +24,7 @@ The purpose of this analysis was to create a table of UFO data. Using Javascript
 
 
 ## **Summary**
-The main drawback of this webpage is there are limited data. Only UFO data for the first few weeks of January 2010 are available.
+The main drawback of this webpage is there are limited data. Only UFO data for the first few weeks of January 2010 are available. An additional drawback is the filters are case sensitive, if proper capitalization is used (e.g., "NJ" instead of "nj"), the table will show nothing.  
 
-Aside from adding more data, one way to further develop the webpage would be to display a message if there are not UFO data that match the criteria input by the user (e.g., "No data match this search"). Additionally, data entries that share one of the criteria could be listed below as "related data". For example, if someone searches for sightings in Dallas, TX no results will be displayed but the data for Fort Worth, TX (and other Texas sightings) may be of interest to the user. Another way to further the development of the webpage would be through including links related to the data, such as photos or newspaper articles.
+Aside from adding more data, one way to further develop the webpage would be to display a message if there are not UFO data that match the criteria input by the user (e.g., "No data match this search"). Code could also be added to allow for case variation. Additionally, data entries that share one of the criteria could be listed below as "related data". For example, if someone searches for sightings in Dallas, TX no results will be displayed but the data for Fort Worth, TX (and other Texas sightings) may be of interest to the user. Another way to further the development of the webpage would be through including links related to the data, such as photos or newspaper articles.
 
